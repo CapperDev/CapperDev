@@ -1,6 +1,6 @@
 # Profile
 
-## Founder and CEO of Copper Cloud Development
+## Founder and CEO of Capper Cloud Development
 
 ### Technologies
 - Python
